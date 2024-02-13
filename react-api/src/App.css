@@ -1,0 +1,12 @@
+.image-container {
+  display: flex;
+}
+.names{
+  display: flex;
+}
+.names h4{
+  padding-left: 10px;
+}
+p{
+  padding-left: 10px;
+}
